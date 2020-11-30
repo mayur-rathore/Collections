@@ -1,4 +1,4 @@
-// Java program to demonstrate why collection framework was needed
+// Java program to demonstrate why collection framework was needed, first file
 import java.util.Hashtable;
 import java.util.Vector;
 
